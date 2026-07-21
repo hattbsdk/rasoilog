@@ -1,0 +1,13 @@
+{
+  "name": "RasoiLog",
+  "short_name": "RasoiLog",
+  "description": "Home-style Indian calorie, protein & fibre tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F4EE",
+  "theme_color": "#F6F4EE",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
