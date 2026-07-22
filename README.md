@@ -27,3 +27,5 @@ Home-style Indian calorie / protein / fibre tracker. Vite + React PWA.
 
 ## Run locally
 npm install && npm run dev
+
+v2.0.2 — keyboard-stable input sheets + ingredient search includes meals.
